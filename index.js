@@ -22,4 +22,3 @@ function superbowlWin(record){
         ? undefined
         : winningRecord.year
 }
-
